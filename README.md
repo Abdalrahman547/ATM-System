@@ -19,7 +19,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/atm-system.git
+git clone https://github.com/Abdalrahman547/atm-system.git
 Navigate to the project directory:
 
 bash
